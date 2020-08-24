@@ -1,0 +1,40 @@
+Java Editions
+
+1. Java SE(Standart Edition)
+Стандартная редакция
+JVM + библиотека классов 
+
+2. Java EE(Enterprise Edition)
+Java SE
+Спецификация 
+API + runtime enviromment services
+
+3. Java ME(Micro Edition)
+Мобильные телефоны, бытовые приробы
+
+
+Наименования 
+
+Классы в Java собырают в пакеты (packages)
+Пакеты обычно собирают в *.jar файлы (zip архивы)
+
+Класс может быть однозначно идентиицирован по полному
+имени packageName.drectoryName.ClassName
+
+Имена пакетов и директорий принято начинать с маленькой буквы
+
+Имена классов: MySuperClassName
+Имена функций: getMyVariable()
+Имена переменных: myVariable
+Пакеты не могут иметь циклтческих зависимостей
+
+
+Создание проекта
+
+http://wiki.jetbrains.net/intellij/Creating_and_importing_Maven_projects
+
+
+
+
+
+
